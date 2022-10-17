@@ -1,5 +1,7 @@
 # SimKT
 
+The source codes will be released after the paper being accepted
+
 ## Data Preparation
 The raw data can be downloaded from the following weisite links: --
 
