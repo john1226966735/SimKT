@@ -1,6 +1,6 @@
 # SimKT
 
-The source codes will be released after the paper being accepted
+The paper "Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing" has been published in TKDD (ACM Transactions on Knowledge Discovery from Data) [https://dl.acm.org/doi/10.1145/3703158]. The data and code are available at: https://github.com/YoungDubbyDu/SimKT.
 
 ## Data Preparation
 The raw data can be downloaded from the following weisite links: --
